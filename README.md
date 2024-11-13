@@ -1,5 +1,5 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Chat Me
+Chat Me Mobile App.
 
 # Features
 * Share Projects
